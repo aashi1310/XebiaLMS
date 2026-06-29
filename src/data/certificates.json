@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "title": "AWS Cloud Foundations",
+    "courseId": 3,
+    "issuedDate": "2024-09-15",
+    "issuedDateLabel": "Sep 15, 2024",
+    "credentialId": "XEB-AWS-2024-001",
+    "category": "Cloud",
+    "instructor": "Rahul Verma",
+    "status": "issued"
+  },
+  {
+    "id": 2,
+    "title": "AI & GenAI Fundamentals",
+    "courseId": 2,
+    "issuedDate": "2024-08-20",
+    "issuedDateLabel": "Aug 20, 2024",
+    "credentialId": "XEB-AI-2024-042",
+    "category": "AI/ML",
+    "instructor": "Dr. Priya Sharma",
+    "status": "issued"
+  },
+  {
+    "id": 3,
+    "title": "Python for Data Engineering",
+    "courseId": 5,
+    "issuedDate": "2024-07-10",
+    "issuedDateLabel": "Jul 10, 2024",
+    "credentialId": "XEB-PY-2024-018",
+    "category": "Data",
+    "instructor": "Sunita Rao",
+    "status": "issued"
+  },
+  {
+    "id": 4,
+    "title": "React & Modern Frontend",
+    "courseId": 4,
+    "issuedDate": "2024-06-05",
+    "issuedDateLabel": "Jun 5, 2024",
+    "credentialId": "XEB-FE-2024-007",
+    "category": "Frontend",
+    "instructor": "Neha Patel",
+    "status": "issued"
+  }
+]

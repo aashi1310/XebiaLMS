@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "author": "Student",
+    "avatar": null,
+    "initials": "S",
+    "role": "Student",
+    "timeAgo": "2h ago",
+    "content": "Just completed the RAG pipeline module in the GenAI course — the vector embedding section was really well explained. Highly recommend!",
+    "likes": 14,
+    "replies": 3,
+    "tags": ["GenAI", "RAG"],
+    "liked": false
+  },
+  {
+    "id": 2,
+    "author": "Priya M.",
+    "avatar": null,
+    "initials": "P",
+    "role": "Student",
+    "timeAgo": "5h ago",
+    "content": "Anyone else struggling with the Kubernetes networking module? Would love to form a study group for the assignments.",
+    "likes": 8,
+    "replies": 7,
+    "tags": ["Kubernetes", "Networking"],
+    "liked": true
+  },
+  {
+    "id": 3,
+    "author": "Rahul Verma",
+    "avatar": null,
+    "initials": "R",
+    "role": "Instructor",
+    "timeAgo": "1d ago",
+    "content": "Office hours this Friday at 4 PM IST for AWS Cloud Foundations. Bring your questions on EC2, VPC, and IAM policies!",
+    "likes": 32,
+    "replies": 12,
+    "tags": ["AWS", "Office Hours"],
+    "liked": false
+  },
+  {
+    "id": 4,
+    "author": "Ankit J.",
+    "avatar": null,
+    "initials": "A",
+    "role": "Student",
+    "timeAgo": "2d ago",
+    "content": "Passed the AWS Foundations certification exam today with a 93% score! Thanks to the Xebia course material and practice quizzes.",
+    "likes": 56,
+    "replies": 15,
+    "tags": ["AWS", "Certification", "Win"],
+    "liked": false
+  },
+  {
+    "id": 5,
+    "author": "Neha Patel",
+    "avatar": null,
+    "initials": "N",
+    "role": "Instructor",
+    "timeAgo": "3d ago",
+    "content": "New module released: Advanced React Patterns including compound components and render props. Check it out in the course!",
+    "likes": 41,
+    "replies": 9,
+    "tags": ["React", "Frontend"],
+    "liked": false
+  }
+]

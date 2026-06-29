@@ -1,0 +1,25 @@
+{
+  "user": {
+    "name": "Student",
+    "email": "Student@xebia.com",
+    "initials": "S",
+    "role": "Student",
+    "program": "Mastering Digital Innovation"
+  },
+  "stats": {
+    "dayStreak": 8,
+    "hoursCompleted": 120,
+    "coursesActive": 4,
+    "certificates": 15,
+    "weeklyStreakGoal": 3
+  },
+  "featuredCourse": {
+    "id": 1,
+    "title": "Generative AI for Developers",
+    "nextLesson": "Building RAG Applications",
+    "progress": 68,
+    "track": "AI Track"
+  },
+  "upcomingAssignments": [1, 2],
+  "recentCourses": [1, 2, 3, 4]
+}

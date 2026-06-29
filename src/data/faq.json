@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "question": "Can I enroll in multiple courses at once?",
+    "answer": "Yes. You can enroll in multiple courses simultaneously and learn at your own pace."
+  },
+  {
+    "id": 2,
+    "question": "Are courses self-paced or instructor-led?",
+    "answer": "Most courses are self-paced with pre-recorded video content. Some advanced tracks include optional live sessions with instructors."
+  },
+  {
+    "id": 3,
+    "question": "Will I receive a certificate after completion?",
+    "answer": "Yes. Upon completing all modules and passing the final assessment, you receive a verifiable digital certificate from Xebia."
+  },
+  {
+    "id": 4,
+    "question": "What kind of support can I expect from instructors?",
+    "answer": "Instructors are available via the community forum and scheduled office hours. You can ask questions and get feedback on assignments within 48 hours."
+  },
+  {
+    "id": 5,
+    "question": "Are the courses self-paced or do they have specific start and end dates?",
+    "answer": "Courses are fully self-paced with no fixed start or end dates. You can begin at any time and progress at a speed that suits you."
+  },
+  {
+    "id": 6,
+    "question": "Are there any prerequisites for the courses?",
+    "answer": "Prerequisites vary by course level. Beginner courses have no prerequisites. Intermediate and advanced courses specify required knowledge in their descriptions."
+  }
+]
